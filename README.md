@@ -16,7 +16,9 @@ This project is an **Android task management app** built with Java (или Kotli
 
 ## 📱 Screenshots
 
-> *(Add screenshots of your app here — e.g., home screen, new task screen, completed tasks)*
+<img src="https://github.com/user-attachments/assets/bd486b3f-f370-4f7b-ae0d-8af4093d4df8" alt="ToDoList1" width="300"/>
+<img src="https://github.com/user-attachments/assets/30ffa414-debf-4d80-bf58-48b224b0d459" alt="ToDoList2" width="300"/>
+<img src="https://github.com/user-attachments/assets/c0af9662-c78b-433b-9687-1846fadc8618" alt="ToDoList3" width="300"/>
 
 ## 📥 Installation / Setup
 
