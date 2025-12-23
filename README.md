@@ -35,21 +35,21 @@ git clone https://github.com/AntoniyaBK/ToDoList.git
 
 3. **Sync Gradle:**
 
-Android Studio will automatically download the required dependencies.
+- Android Studio will automatically download the required dependencies.
 
 4. **Set up an emulator or connect a device:**
 
-Emulator: **Tools → AVD Manager → Create Virtual Device → Start the emulator**
-Physical device: Enable Developer Mode and USB Debugging, then connect your Android device
+- Emulator: **Tools → AVD Manager → Create Virtual Device → Start the emulator**
+- Physical device: Enable Developer Mode and USB Debugging, then connect your Android device
 
 5. **Run the app:**
 
-Press the green **Run ▶** button in Android Studio to launch the app.
+- Press the green **Run ▶** button in Android Studio to launch the app.
 
 6. **Optional — Build APK:**
 
-Go to Build → Build Bundle(s) / APK(s) → Build APK(s)
-Locate the generated APK in the output folder to install manually on any Android device
+- Go to Build → Build Bundle(s) / APK(s) → Build APK(s)
+- Locate the generated APK in the output folder to install manually on any Android device
 
 ## 🛠️ Project Structure
 
