@@ -4,7 +4,7 @@ To Do List is a simple and intuitive Android application that helps users **orga
 
 ## 🧠 About
 
-This project is an **Android task management app** built with Java (или Kotlin според твоя код). It demonstrates basic Android skills such as UI layouts, data handling, lists, and user interaction.
+This project is an **Android task management app** built with Java. It demonstrates basic Android skills such as UI layouts, data handling, lists, and user interaction.
 
 ## 🚀 Features
 
